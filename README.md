@@ -1,4 +1,4 @@
-# reset-mouse
+# reset-cursor
 (Windows) Move the mouse back when it gets lost.
 
 Written in C, compiled with tcc to try and make it as small, fast, and light as possible.
